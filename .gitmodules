@@ -1,0 +1,6 @@
+[submodule "extern/avr-boy-emulator"]
+	path = extern/avr-boy-emulator
+	url = https://github.com/Dante999/avr-boy-emulator.git
+[submodule "extern/avr-boy-core"]
+	path = extern/avr-boy-core
+	url = https://github.com/Dante999/avr-boy-core.git

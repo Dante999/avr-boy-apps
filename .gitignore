@@ -1,0 +1,25 @@
+
+# QT Creator (used as IDE only)
+*.creator
+*.creator.user
+*.files
+*.includes
+*.config
+*.cflags
+*.cxxflags
+.vscode
+CMakeLists.txt.user
+
+# QT Creator (used for QT projects)
+# keep the independent .pro file but delete user files
+*.pro.user
+
+# C Object files
+*.obj
+*.o
+*.hex
+*.elf
+*.exe 
+
+/build
+/build*
